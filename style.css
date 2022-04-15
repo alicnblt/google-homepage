@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    margin: 50px 100px 50px 100px;
+}
+
+.search{
+    background-color: rgb(238, 238, 238);
+
+    font-size: 16px;
+}
+.card{
+    background-color: rgb(126, 229, 218);
+    float: left;
+    margin-top: 5px;
+}
